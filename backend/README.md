@@ -10,4 +10,4 @@ Substitua os dados do MongoDB previamente fornecidos no arquivo `.env`.
 
 Você pode inicializar a aplicação através do `yarn` ou do próprio `npm`.
 
-### `yarn start` ou `npm run start`
+### `yarn dev` ou `npm run dev`
